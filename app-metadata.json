@@ -1,0 +1,13 @@
+{
+  "name": "Automad",
+  "source": "https://automad.org/",
+  "docker_image": "automad/automad:v2",
+  "version": "v2",
+  "repository": "https://github.com/waskevin/tnas-app-automad",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "description": "Automad container application prepared for TerraMaster TOS",
+  "submission_status": "not_submitted"
+}
