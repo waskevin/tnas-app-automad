@@ -1,0 +1,6 @@
+services:
+  automad:
+    image: automad/automad:v2
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
